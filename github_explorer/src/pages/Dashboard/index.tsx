@@ -1,7 +1,6 @@
 import React from 'react';
 import { FiChevronRight } from 'react-icons/fi';
 
-import { Title } from './styles';
 import logoImg from '../../assets/logo.svg';
 
 import { Title, Form, Repositories } from './styles';
