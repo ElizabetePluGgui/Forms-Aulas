@@ -5,4 +5,5 @@
 # GitHub Explorer
 
 ## Hello World! :wave: :wave:
-![fundo](./fundo.png)
+
+![fundo](../fundo.png)
