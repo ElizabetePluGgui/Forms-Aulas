@@ -6,4 +6,4 @@
 
 ## Hello World! :wave: :wave:
 
-![fundo](../fundo.png)
+![fundo](../github_explorer/fundo.png)
